@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Single+Day&display=swap');
+
+#contact {
+    position: relative;
+    height: 100vh; /* Adjust the height as needed */
+    background: url('./image/cntc.gif') center/cover no-repeat; /* Set the path to your GIF file */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; /* Set text color */
+}
+
+.cntc {
+    text-align: center;
+    position: absolute;
+    top: 15px;
+}
+
+.hdr {
+    color: #fff;
+    font-size: 75px; 
+    font-family:'Single Day';
+    text-decoration: solid;
+    font-weight: 800;
+}
+
+.mp {
+    position: relative;
+    top: 180px;
+    margin-bottom: 60px;
+}
+
+.frm {
+    position: relative;
+    top: 175px;
+}
+
+.adrs {
+    background-color: #090909;
+}
+
+.bx {
+    background-color: #090909;
+}
+
+.send {
+    background: rgb(113,16,129);
+    background: linear-gradient(90deg, rgb(186, 47, 207) 16%, rgb(127, 48, 255) 89%);
+    border: black;
+}
+
+.icn {
+    position: absolute;
+    bottom: 0px;
+    display:flex;
+    margin: 5px;
+    right: 50%;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.ins {
+ height: 50px;
+ padding-right: 10px;
+}
+
+.fcbk {
+    height: 60px;
+    padding-right: 0px;
+}
+
+.twtr {
+    height: 50px;
+    padding-right: 10px;
+}
+
+.ln {
+    font-size: 20px;
+}

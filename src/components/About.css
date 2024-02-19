@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto&display=swap');
+
+#about {
+    position: relative;
+    height: 100vh; /* Adjust the height as needed */
+    background: url('./bkgd.gif') center/cover no-repeat; /* Set the path to your GIF file */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; /* Set text color */
+}
+
+.me {
+    background-color: #000000d3;
+    border-radius: 40px;
+}
+
+.wrk {
+    background-color: plum;
+}
+
+.see {
+    color: rgb(248, 248, 248);
+}
+
+h1 {
+    font-family:'Press Start 2P', 'Courier New', Courier, monospace;
+    color: plum;
+}
+
+.h1 {
+    color: plum;
+}
+
+h2 {
+    font-family: monospace, 'Courier New', Courier;
+    color: plum;
+    font-size: 30px;
+}
+
+.img {
+    border-radius: 35%;
+    
+}

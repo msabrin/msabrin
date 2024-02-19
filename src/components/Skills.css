@@ -1,0 +1,14 @@
+#skills {
+    background: rgb(189,242,255);
+background: linear-gradient(222deg, #bdf2ff 10%, #dbc7e4 78%, rgba(221,196,226,1) 80%);
+}
+
+
+.line {
+    background-color: #1f3e74;
+    color: rgb(235, 197, 235);
+}
+
+.skl {
+    background-color: rgb(163, 117, 163);
+}

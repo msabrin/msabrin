@@ -1,0 +1,51 @@
+#projects {
+    position: sticky;
+    height: 100vh; /* Adjust the height as needed */
+    background: url('./bkgd.gif') center/cover no-repeat; /* Set the path to your GIF file */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; /* Set text color */
+}
+
+.card {
+    background-color: #000000;
+    border-color: plum; 
+}
+
+.h2 {
+    color: palevioletred;
+}
+
+.h1 {
+    color: plum;
+}
+
+.p {
+    color: rgb(177, 148, 160);
+}
+
+.body {
+    background-color: #090909;
+}
+
+.cd {
+    /* top: -5px;
+    left: 35px; */
+    /* z-index: 1; */
+    position: sticky;
+    height: 120px;
+    margin-bottom: 5px;
+}
+
+#hd {
+    /* height: 120px; */
+    margin-bottom: 5px;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.container {
+    margin-top: 0px;
+    padding-top: 0px;
+}
